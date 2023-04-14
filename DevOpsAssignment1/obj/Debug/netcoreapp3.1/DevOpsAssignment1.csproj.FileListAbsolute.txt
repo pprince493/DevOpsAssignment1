@@ -1,0 +1,14 @@
+C:\Users\princekumar01\source\repos\DevOpsAssignment1\bin\Debug\netcoreapp3.1\DevOpsAssignment1.exe
+C:\Users\princekumar01\source\repos\DevOpsAssignment1\bin\Debug\netcoreapp3.1\DevOpsAssignment1.deps.json
+C:\Users\princekumar01\source\repos\DevOpsAssignment1\bin\Debug\netcoreapp3.1\DevOpsAssignment1.runtimeconfig.json
+C:\Users\princekumar01\source\repos\DevOpsAssignment1\bin\Debug\netcoreapp3.1\DevOpsAssignment1.runtimeconfig.dev.json
+C:\Users\princekumar01\source\repos\DevOpsAssignment1\bin\Debug\netcoreapp3.1\DevOpsAssignment1.dll
+C:\Users\princekumar01\source\repos\DevOpsAssignment1\bin\Debug\netcoreapp3.1\DevOpsAssignment1.pdb
+C:\Users\princekumar01\source\repos\DevOpsAssignment1\obj\Debug\netcoreapp3.1\DevOpsAssignment1.csproj.AssemblyReference.cache
+C:\Users\princekumar01\source\repos\DevOpsAssignment1\obj\Debug\netcoreapp3.1\DevOpsAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princekumar01\source\repos\DevOpsAssignment1\obj\Debug\netcoreapp3.1\DevOpsAssignment1.AssemblyInfoInputs.cache
+C:\Users\princekumar01\source\repos\DevOpsAssignment1\obj\Debug\netcoreapp3.1\DevOpsAssignment1.AssemblyInfo.cs
+C:\Users\princekumar01\source\repos\DevOpsAssignment1\obj\Debug\netcoreapp3.1\DevOpsAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\princekumar01\source\repos\DevOpsAssignment1\obj\Debug\netcoreapp3.1\DevOpsAssignment1.dll
+C:\Users\princekumar01\source\repos\DevOpsAssignment1\obj\Debug\netcoreapp3.1\DevOpsAssignment1.pdb
+C:\Users\princekumar01\source\repos\DevOpsAssignment1\obj\Debug\netcoreapp3.1\DevOpsAssignment1.genruntimeconfig.cache
